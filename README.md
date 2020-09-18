@@ -1,2 +1,2 @@
-# RMMV-Plugins
+# RMMZ-Plugins
 All my custom made plugins (Completed)
